@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a software developer from Austria<br><br>- 🔭 I’m working on a Monster Trading Card Game (MTCG) school project with C# and a flashcard learning app with Next.js and Tailwind CSS.<br><br>- 📚 I'm currently learning C#, NextJS, agile project management, and basics of IT security<br><br>- ⚡ In my free time I do lots of sports and enjoy traveling.</p>
+<p align="left">I'm a student at the UAS Technikum Vienna<br>with a focus on software, web and app development and IT security<br><br>- 🔭 I’m working on a <a href="https://github.com/FlorianMimmler/MTCG">Monster Trading Card Game (MTCG)</a> school project with C# and a flashcard learning app with Next.js and Tailwind CSS.<br><br>- 📚 I'm currently learning C#, NextJS, agile project management, and basics of IT security<br><br>- ⚡ In my free time I do lots of sports and enjoy traveling.</p>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:globe_with_meridians:   Let's stay connected</h3>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
